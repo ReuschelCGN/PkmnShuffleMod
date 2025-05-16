@@ -1,6 +1,17 @@
 # PkmnShuffleMod
 
 **Shiny Icon Dex complete #1-#809**
+- Kanto - Generation 1
+- Johto - Generation 2
+- Hoenn - Generation 3
+- Sinnoh - Generation 4
+- Unova - Generation 5
+- Kalos - Generation 6
+- Alola - Generation 7
+- Galar - Generation 8 (incomplete)
+- Paldea - Generation 9 (missing)
+
+
 
 **Pokemon Shuffle Style Half Shiny 128x128 + Sparkles**<br />
 URL: `https://raw.githubusercontent.com/ReuschelCGN/PkmnShuffleMod/refs/heads/main/UICONS_Half_Shiny_Sparkles_128`<br />
