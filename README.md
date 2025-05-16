@@ -1,6 +1,6 @@
 # PkmnShuffleMod
 
-**Shiny Dex Icons complete #1-#809**
+**Shiny Icon Dex complete #1-#809**
 
 **Pokemon Shuffle Style Half Shiny 128x128 + Sparkles**<br />
 URL: `https://raw.githubusercontent.com/ReuschelCGN/PkmnShuffleMod/refs/heads/main/UICONS_Half_Shiny_Sparkles_128`<br />
