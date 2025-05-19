@@ -1,0 +1,12 @@
+{
+  "name": "Uicons",
+  "version": "2.0.0",
+  "description": "Icon repo for Pogo Projects",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node -e 'require(\"./index\").update()'"
+  },
+  "author": "TurtIeSocks",
+  "license": "MIT"
+}
