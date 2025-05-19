@@ -23,6 +23,10 @@ Example: hhttps://raw.githubusercontent.com/ReuschelCGN/PkmnShuffleMod/refs/head
 URL: `https://raw.githubusercontent.com/ReuschelCGN/PkmnShuffleMod/refs/heads/main/UICONS_Half_Shiny_128/`<br />
 Example: hhttps://raw.githubusercontent.com/ReuschelCGN/PkmnShuffleMod/refs/heads/main/UICONS_Half_Shiny_128/pokemon/143_s.png<br />
 ![143](https://raw.githubusercontent.com/ReuschelCGN/PkmnShuffleMod/refs/heads/main/UICONS_Half_Shiny_128/pokemon/143_s.png)
+![143](https://raw.githubusercontent.com/ReuschelCGN/PkmnShuffleMod/refs/heads/main/UICONS_Half_Shiny_128/pokemon/143_a1.png)
+![143](https://raw.githubusercontent.com/ReuschelCGN/PkmnShuffleMod/refs/heads/main/UICONS_Half_Shiny_128/pokemon/143_a2.png)
+![143](https://raw.githubusercontent.com/ReuschelCGN/PkmnShuffleMod/refs/heads/main/UICONS_Half_Shiny_128/pokemon/143_s.png)
+![143](https://raw.githubusercontent.com/ReuschelCGN/PkmnShuffleMod/refs/heads/main/UICONS_Half_Shiny_128/pokemon/143_b2.png)
 
 
 **Pokemon Shuffle Style Full Shiny 128x128 + Sparkles**<br />
