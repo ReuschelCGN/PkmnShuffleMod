@@ -1,6 +1,6 @@
 # PkmnShuffleMod
 
-**Shiny Icon Dex complete #1-#809**
+**Shiny Icon Dex complete #1-#904**
 - Kanto - Generation 1
 - Johto - Generation 2
 - Hoenn - Generation 3
@@ -8,8 +8,8 @@
 - Unova - Generation 5
 - Kalos - Generation 6
 - Alola - Generation 7
-- Galar - Generation 8 (incomplete)
-- Paldea - Generation 9 (missing)
+- Galar - Generation 8
+- Paldea - Generation 9 (incomplete)
 
 
 
