@@ -239,6 +239,21 @@
     "512.png",
     "513.png"
   ],
+  "maxbattle": [
+    "0.png",
+    "1_h.png",
+    "1.png",
+    "2_h.png",
+    "2.png",
+    "3_h.png",
+    "3.png",
+    "4_h.png",
+    "4.png",
+    "5_h.png",
+    "5.png",
+    "7_h.png",
+    "7.png"
+  ],
   "misc": [
     "0.png",
     "500.png",
@@ -274,6 +289,7 @@
     "height_xxs.png",
     "invasion.png",
     "lure.png",
+    "maxbattle.png",
     "nest.png",
     "pokemon.png",
     "pokestop.png",
@@ -286,6 +302,7 @@
     "route_start.png",
     "route-end.png",
     "route-start.png",
+    "rsvps.png",
     "second.png",
     "shadow.png",
     "showcase.png",
